@@ -43,7 +43,7 @@ It follows a scalable architecture and integrates backend services for authentic
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/hotel-booking-app.git
+git clone
 cd hotel-booking-app
 flutter pub get
 flutter run
